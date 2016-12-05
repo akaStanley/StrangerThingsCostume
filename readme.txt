@@ -1,4 +1,4 @@
-Spencer Kulbacki Haloween 2016
+Spencer Kulbacki Halloween 2016
 
 Stuff used:
 serial LEds
