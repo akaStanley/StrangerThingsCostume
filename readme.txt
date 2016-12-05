@@ -1,5 +1,9 @@
 Spencer Kulbacki Halloween 2016
 
+Read the detailed summary on how I made this project on my website here:
+http://kulbacki.org/projects.html
+
+
 Stuff used:
 serial LEds
 https://www.amazon.com/gp/product/B01AG923GI/ref=oh_aui_detailpage_o07_s01?ie=UTF8&psc=1
